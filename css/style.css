@@ -60,9 +60,8 @@ body{
 
 .logo{
     margin-top: 20px;
-    border: solid 1px white;
-    width: 60px;
-    border-radius: 50%;
+    width: 100px;
+    border-radius: 5px;
 }
 
 h1{
