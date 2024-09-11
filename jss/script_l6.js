@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', () => {
             case 'atos.7.55-56':
                 text = `
                 <p><b>Atos 7:55-56</b></p>
-                <p> - Mas Estêvão, cheio do Espírito Santo, levantou os olhos para o céu e viu a glória de Deus, e Jesus de pé, à direita de Deus,</p>
+                <p>55 - Mas Estêvão, cheio do Espírito Santo, levantou os olhos para o céu e viu a glória de Deus, e Jesus de pé, à direita de Deus,</p>
                 <p>56 - e disse: "Vejo o céu aberto e o Filho do homem de pé, à direita de Deus".</p>
                 `;
             break;
